@@ -1,0 +1,26 @@
+NO :,Nom,Prenom,Equipe,Date de naissance,Pays,Grand Prix disputés,Titres,Victoires,Podiums,Points marqués,Image
+1,VETTEL,Sebastian,Retraité,03/07/87,Allemagne,300 Grand Prix,4 Championnat du Monde,53 Victoires,122 Podiums,3098 pts inscrits,../ressources/sportif/f1/vettel.txt
+2,GASLY,Pierre,Alpine,07/02/96,France,108 Grand Prix,Pas de Championnat du Monde,1 Victoire,3 Podiums,332 pts inscrits,../ressources/sportif/f1/gasly.txt
+3,LECLERC,Charles,Ferrari,16/10/97,Monaco,102 Grand Prix,Pas de Championnat du Monde,5 Victoires,24 Podiums,812 pts inscrits,../ressources/sportif/f1/leclerc.txt
+4,VERSTAPPEN,Max,Red Bull,30/09/97,Pays-Bas,163 Grand Prix,2 Championnats du Monde,35 Victoires,77 Podiums,"2011,5 pts inscrits",../ressources/sportif/f1/verstappen.txt
+5,ALONSO,Fernando,Aston Martin,29/07/81,Espagne,356 Grand Prix,2 Championnats du Monde,32 Victoires,98 Podiums,2008 pts inscrits,../ressources/sportif/f1/alonso.txt
+6,HAMILTON,Lewis,Mercedes,07/01/85,Royaume-Uni,310 Grand Prix,7 Championnats du Monde,103 Victoires,188 Podiums,"4415,5 pts inscrits",../ressources/sportif/f1/hamilton.txt
+7,SCHUMACHER,Michael,Retraité,03/01/69,Allemagne,307 Grand Prix,7 Championnats du Monde,91 Victoires,155 Podiums,1566 pts insctits,../ressources/sportif/f1/michaelSchumacher.txt
+8,SCHUMACHER,Mick,Sans equipe,22/03/99,Allemagne,44 Grand Prix,Pas de Championnat du Monde,Pas de Victoire,Pas de Podium,12 pts inscrits,../ressources/sportif/f1/mickSchumacher.txt
+9,OCON,Esteban,Alpine,17/09/96,France,111 Grand Prix,Pas de Championnat du Monde,1 Victoire,2 Podiums,364 pts inscrits,../ressources/sportif/f1/ocon.txt
+10,FANGIO,Juan Manuel,Retraité,24/06/1911,Argentin,51 Grand Prix,5 Championnat du Monde,24 Victoires,35 Podiums,"277,64 pts inscrits",../ressources/sportif/f1/fangio.txt
+11,PROST,Alain,Retraité,24/02/55,France,199 Grand Prix,4 Championnat du Monde,51 Victoires,106 Podiums,"798,5 pts inscrits",../ressources/sportif/f1/prost.txt
+12,SENNA,Ayrton,Retraité,21/03/60,Brésil,161 Grand Prix,3 Championnat du Monde,41 Victoires,80 Podiums,614 pts inscrits,../ressources/sportif/f1/senna.txt
+13,ALESI,Jean,Retraité,11/06/64,France,201 Grand Prix,Pas de Championnat du Monde,1 Victoire,32 Podiums,241 pts inscrits,../ressources/sportif/f1/alesi.txt
+14,RICCIARDO,Daniel,Sans equipe,01/07/89,Australie,232 Grand Prix,Pas de Championnat du Monde,8 Victoires,32 Podiums,1311 pts inscrits,../ressources/sportif/f1/ricciardo.txt
+15,PEREZ,Sergio,Red Bull,26/01/90,Mexique,235 Grand Prix,Pas de Championnat du Monde,4 Victoires,26 podiums,1201 pts inscrits,../ressources/sportif/f1/perez.txt
+16,HAKKINEN,Mika,Retraité,28/09/68,Finlande,165 Grand Prix,2 Championnats du Monde,20 Victoires,51 Podiums,420 pts inscrits,../ressources/sportif/f1/hakkinen.txt
+17,BOTTAS,Valteri,Alfa Romeo,28/08/89,Finlande,200 Grand Prix,Pas de Championnat du Monde,10 Victoires,67 Podiums,1787 pts inscrits,../ressources/sportif/f1/bottas.txt
+18,RAIKKONEN,Kimi,Retraité,17/10/79,Finlande,350 Grand Prix,1 Championnat du Monde,21 Victoires,103 Podiums,1873 pts inscrits,../ressources/sportif/f1/raikkonen.txt
+19,HULKENBERG,Nico,Haas,19/08/87,Allemagne,181 Grand Prix,Pas de Championnat du Monde,Pas de Victoire,Pas de Podium,521 pts inscrits,../ressources/sportif/f1/hulkenberg.txt
+20,RUSSELL,George,Mercedes,15/02/98,Royaume-Uni,82 Grand Prix,Pas de Championnat du Monde,1 Victoire,9 Podiums,284 pts inscrits,../ressources/sportif/f1/russell.txt
+21,NORRIS,Lando,McLaren,13/11/99,Royaume-Uni,82 Grand Prix,Pas de Championnat du Monde,Pas de Victoire,6 Podiums,428 pts inscrits,../ressources/sportif/f1/norris.txt
+22,ICKX,Jacky,Retraité,01/01/45,Belgique,114 Grand Prix,Pas de Championnat du Monde,8 Victoires,25 Podiums,181 pts inscrits,../ressources/sportif/f1/ickx.txt
+23,GROSJEAN,Romain,Retraité,17/04/86,France,179 Grand Prix,Pas de Championnat du Monde,Pas de Victoire,10 Podiums,391 pts inscrits,../ressources/sportif/f1/grosjean.txt
+24,ROSBERG,Nico,Retraité,27/06/85,Allemagne,206 Grand Prix,1 Championnat du Monde,23 Victoires,57 Podiums,"1594,5 pts inscrits",../ressources/sportif/f1/rosberg.txt
+25,SAINZ JR,Carlos,Ferrari,01/09/94,Espagne,163 Grand Prix,Pas de Championnat du Monde,1 Victoire,15 Podiums,"782,5 pts inscrits",../ressources/sportif/f1/sainz.txt

@@ -1,0 +1,42 @@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&&&&&&&&&###BBBBBBBBBB#&&&&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&&&&&&&&###BGGGGGPPPPGGBBBB#&&&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&#&&&&&&###BBGGBGGGGPPPGGBBBB#&&&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&&&&&&&&&##BBBBBGGGGPPGGGBBGGGBB##&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&&&&&&&&##BGGGGGP5P5GBGBBB###GGBBB#&&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&#&&@@@@&&&#BBGGGPPGGGBBBGPPPB#BB#B##&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@BG#&&&&#########B5YY5G###GYPPPGBGB###&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@BG####&&BPG#&&&&#GP5P#&#&&BB&BGGPB###&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#G##&&&&&##@@&#BGGGBBGGBBGP5PGBBGBB##&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&B&&&&&&&&&#GG5YJ7YYJY555GGP555PGBB#BG#&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&B&&&&&&@@BP#@&GPPB##5555Y5P555PPGB#G?YB#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&G##&&&&&&@&@@&&&##B#BBBGPP5Y5PPPGB##5JY&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@B###&&&&@@&&#B#G5JJJ5PB##GGP5PPGG###GGP@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@####&&@&&#BBGP555YYY5GB#&#GGPGGGB##@BYB@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@##&&&&##&&#BPPPP5YJYY5GPBBGGGGBBB&&&&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&&&&&&&&&####&&##BP5YYYYG##BBB##&&&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&&&@@&&&#####BGGPP55PG&&&&&&&&&&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&&&&###GGGGGGB#&@&@@@@@&&&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&&&&&&&&&&&&@&@@@@@@@&#G&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&&#BGG#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&&@@@@@@@@@@@@@@@@@@@&&&##BPPPGB@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&&&@@@@@@@@@@&&&&####BBBBPPPPPPB@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&&&&@@@@&&&&&#BGPPPGGGGPPP55P55G&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&&&&&&&&&&&&###G5555Y5YYY555555PBPBBB@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&&&&&##&####&##BGP55YYYJJYYYY5PPPGY5G!J&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&B#&&&##########BGP5YYYYYYYYYYYY55PP5BJ77J5Y?YPB#&@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@G~5BB&&&&#######BBBGGP55YYYYYYYYYYY55P5G5777??JJJ55PGPGBBB&@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&#GG^.?BGB&#######BBBGGPP5YYYJYYYY5Y5YY5P5GPJYPGGBGGB#BBGPBGPPP&@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@&PPPPPGB? .PPPB#&###B#BBGPP55YYYYY55YYYY5YYPYPB55B#BGPPB#BBBPPBBBGG?75B&@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@BPPPY5PPPPPP. ^GGBB###BB#BBBGP5YYY55PG55YYYY5P5P#PGBBGGGGBBBBBBPGBBBBB5JYY55PGB#&@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@&5?JYP55PPPPPGY:~BBBB&#B###BBGGPYJYY5G#BPY5YYPP5PBBBBGPPGGGBGGGBBPGGGBBBBGPP55YJ?7?JPB&@@@@
+@@@@@@@@@@@@@@@@@@@&B5??7?J555PPB#BGBB##BBBBB&&####BGPPPYY5PGBGPP55GP5PGGGGGPGGGGGGGGGBBPPBBGGGBGPPP555PGGGGGGGB&@
+@@@@@@@@@@@@@&&BGGGGGGG?7?YP5GBBB&GGBBBBBBBBBBBB#BBGGPPPPPPGBBGGGG5Y5PGGGGGGGGGGGGGGGBBBP5BBGGBGGGGGPPPPPPPPP5PPG#
+@@@@@@@@@@&G5YJJJJ55PBGYPPGGG#BGB#GGGBBBGGGGGGGGGGGGP55PPGGPPPGBBPPGGGGGGGGGGGGGGGGGGBBBP5BGGBGPGPPPPP55YYYYYY55PG
+@@@@@@@@&&#BGGGGGGGGGBBGGGGPB#GPBBGGGGGGGGGGGGGGGGGGGPPPPPGP5GGP5GGGGGGGGGPPGGGGGGGGGGBGP5BGPBGPPPP5555YYJJJJJYY5P
+@@@@@&B#&&##BBBGGBGGPGGGGGGG##GPBBGGGGGGGGGGGGGGPGPPGGGPPPPPPP5PGGGGGGGGGPPPGGGGGPGGGGBG5PG5GBPPPPP5555YYJJJJJJYY5
+@@@@#G####BBBGGGPGPP5PGPGGPG#BPG#BGGGGBGGGGGGGGGPGPPPPPPPP5P5PPGGPPGPGPPPP5PGPPPPGGGGGPYJP5GGGPPGPPP55YYYYJJJJJJYY
+@@@BGB####BBGGGPPP555PPGGPPB#GPPBBGGGGGGPGGGGPPPGPPPPPP5PB55PPPGPPPPPPPPP55B7:YJ?77!!7?Y55GGGPP5Y7^7P55YYJJJJJJJYY
+@@&PB####BBGGGPPP5555PPGG5PBBPPG#BGGGGGGPGGGPPPGGPPPPP555P!?P5PPPP5PPPP555#&J:::~7JY5GGGP55Y?!:.  .:PP55YYJJJJJJJY
+@@GBB###BBBGGPPPPPPPPPPBP5P#GPPG#BGGGGGGGGGGPPPGGPPPPP5PYY77Y5PP55PPPP5555GGGP55PPPPP5J7^.....:^!7??PPP5YYYJJJJJJY
+@#GB####BBBGGGGPPPPPGPGB55G#GPPGBBGGGPPGGGGPPPPPGPPPPPP55PJ!PPPP55PPP5P55555555555J~:. ..:^!???77??7PGPP555YYYYYYY
+@BBB###BBBGGGGGGGGGGGPBB55G#PPPGBBGGPPPGGPPGPPPPGPPPPPPP555JP5PP55PP555555PPPJ!^.. .:~7?????777?7???G#BGPP555YYYYY

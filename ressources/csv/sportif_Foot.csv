@@ -1,0 +1,26 @@
+NO :,Nom,Prenom,Date de naissance,Pays,Clubs,Récompense continental :,Récompense international :,Récompense continental :,Récompense personnel :,Image :
+1,MBAPPE,Kylian,20/12/98,France,PSG,Pas de Ligue des Champions,1 Coupe du Monde,1 Ligue des Nations,Pas de Ballon d’Or,../ressources/sportif/foot/mbappe.txt
+2,MESSI,Lionel,24/06/87,Argentine,PSG,4 Ligue des Champions,1 Coupe du Monde,1 Copa America,7 Ballons d’Or,../ressources/sportif/foot/messi.txt
+3,RONALDO,Cristiano,05/02/85,Portugal,Al-Nassr,5 Ligue des Champions,Pas de récompense international,1 Euro,5 Ballons d’Or,../ressources/sportif/foot/cr7.txt
+4,BENZEMA,Karim,19/12/87,France,Real Madrid,5 Ligue des Champions,Pas de récompense international,1 Ligue des Nations,1 Ballon d’Or,../ressources/sportif/foot/benzema.txt
+5,ZIDANE,Zinedine,23/06/72,France,Retraité,1 Ligue des Champions,1 Coupe du Monde,1 Euro,1 Ballon d’Or,../ressources/sportif/foot/zidane.txt
+6,HENRY,Thierry,17/08/77,France,Retraité,1 Ligue des Champions,1 Coupe du Monde,1 Euro,Pas de Ballon d’Or,../ressources/sportif/foot/henry.txt
+7,NEYMAR, ,05/02/92,Bresil,PSG,1 Ligue des Champions,Pas de récompense international,Pas de récompense continental,Pas de Ballon d’Or,../ressources/sportif/foot/neymar.txt
+8,RONALDINHO, ,21/03/80,Bresil,Retraité,1 Ligue des Champions,1 Coupe du Monde,1 Copa America,1 Ballon d’Or,../ressources/sportif/foot/ronaldinho.txt
+9,MARADONA,Diego,30/10/60,Argentine,Retraité,Pas de Ligue des Champions,1 Coupe du Monde,Pas de récompense continental,Pas de Ballon d’Or,../ressources/sportif/foot/maradona.txt
+10,PELE, ,23/10/40,Bresil,Retraité,Pas de Ligue des Champions,3 Coupes du Monde,Pas de récompense continental,Pas de Ballon d’Or,../ressources/sportif/foot/pele.txt
+11,IBRAHIMOVIC,Zlatan,03/10/81,Suede,AC Milan,Pas de Ligue des Champions,Pas de récompense international,Pas de récompense continental,Pas de Ballon d’Or,../ressources/sportif/foot/zlatan.txt
+12,FATI,Absu,31/10/02,Espagne,FC Barcelone,Pas de Ligue des Champions,Pas de récompense international,Pas de récompense continental,Pas de Ballon d’Or,../ressources/sportif/foot/fati.txt
+13,GRIEZMANN,Antoine,21/03/91,France,Athletico Madrid,1 Ligue Europa,1 coupe du Monde,1 ligue des Nations, Pas de Ballon d'Or,../ressources/sportif/foot/griezmann.txt
+14,HAALAND,Erling,21/07/00,Norvège,Manchester City,Pas de Ligue des Champions,Pas de récompense international,Pas de récompense continental,Pas de Ballon d’Or,../ressources/sportif/foot/haaland.txt
+15,KANE,Harry,28/07/93,Angleterre,Totenham,Pas de Ligue des Champions,Pas de récompense international,Pas de récompense continental,Pas de Ballon d’Or,../ressources/sportif/foot/kane.txt
+16,KROOS,Toni,04/01/90,Allemagne,Real Madrid,1 Ligue des Champions,1 coupe du Monde,Pas de récompense continental,Pas de Ballon d’Or,../ressources/sportif/foot/kroos.txt
+17,LEWANDOWSKI,Robert,21/08/88,Pologne,FC Barcelone,1 Ligue des Champions,Pas de récompense international,Pas de récompense continental,Pas de Ballon d’Or,../ressources/sportif/foot/lewandowski.txt
+18,LLORIS,Hugo,26/12/86,France,Totenham,Pas de Ligue des Champions,1 coupe du Monde,1 Ligue des Nations,Pas de Ballon d’Or,../ressources/sportif/foot/lloris.txt
+19,MANE,Sadio,10/04/92,Sénégal,Bayern Munich,1 Ligue des Champions,Pas de récompense international,1 coupe des Nations d'Afrique,Pas de Ballon d’Or,../ressources/sportif/foot/mane.txt
+20,MODRIC,Luka,09/09/85,Croatie,Real Madrid,5 Ligues des Champions,Pas de récompense international,pas de récompense continental,1 Ballon d'Or,../ressources/sportif/foot/modric.txt
+21,MULLER,Thomas,13/09/89,Allemagne,Bayern Munich,2 Ligue des Champions,1 coupe du Monde,pas de récompense continental,pas de Ballon D'Or,../ressources/sportif/foot/muller.txt
+22,NEUER,Manuel,27/03/86,Allemagne,Bayern Munich,2 Ligue des Champions,1 coupe du Monde,pas de récompense continental,pas de Ballon D'Or,../ressources/sportif/foot/neuer.txt
+23,PEDRI, ,25/11/02,Espagne,FC Barcelone,Pas de Ligue des Champions,Pas de récompense international,Pas de récompense continental,Pas de Ballon d’Or,../ressources/sportif/foot/pedri.txt
+24,VARANE,Raphael,25/04/95,France,Manchester United,4 Ligue des Champions,1 coupe du Monde,1 Ligue des Nations,Pas de Ballon d’Or,../ressources/sportif/foot/varane.txt
+25,VINICIUS, ,12/07/00,Brésil,Real Madrid,1 Ligue des Champions,Pas de récompense international,Pas de récompense continental,Pas de Ballon d’Or,../ressources/sportif/foot/vinicius.txt

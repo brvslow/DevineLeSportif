@@ -1,0 +1,3 @@
+class Niveau{
+    int niveau;
+}
